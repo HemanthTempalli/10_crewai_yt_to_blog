@@ -12,7 +12,7 @@ This project uses **CrewAI agents** powered by **Groq's LLaMA 3** to automatical
 - 🤖 Two specialized agents: `BlogResearcher` and `BlogWriter`
 - 🎥 Custom tool to fetch YouTube transcripts without using `crewai-tools`
 - ⚡ Uses **Groq's `llama-3.1-8b-instant`** via `langchain-groq`
-- 🧩 Modular code using `crew.py`, `agents.py`, and `tools/yt_tool.py`
+- 🧩 Modular code using `crew.py`, `agents.py`, and `tools.py`
 
 ---
 
